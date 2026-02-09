@@ -14,6 +14,7 @@ public class Main{
         acc2.withdraw(1000);
         acc1.transfer(acc2,2000);
         acc1.showTransactions();
+
         System.out.println("----------");
         acc2.showTransactions();
     }

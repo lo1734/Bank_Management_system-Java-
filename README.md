@@ -135,7 +135,7 @@ Banking-System-Simulator/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/banking-system-simulator.git
+git clone https://github.com/lo1734/banking-system-simulator.git
 ```
 
 ### 2️⃣ Navigate into the project directory
